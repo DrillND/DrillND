@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### White Belt □□□□
+
+<h3 align="center">🛠 🛠 🛠</h3>
