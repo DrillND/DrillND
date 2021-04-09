@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **DrillND/DrillND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +17,8 @@ Here are some ideas to get you started:
 ### White Belt □□□□
 
 <h3 align="center">🛠 🛠 🛠</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
