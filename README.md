@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### White Belt □□□□ 
 ### Since 2021 March
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrillND%2Fhit-counter&count_bg=%231024D0&title_bg=%2305203E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🛠 🛠 🛠</h3>
 
@@ -28,7 +29,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=flat"/><br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrillND%2Fhit-counter&count_bg=%231024D0&title_bg=%2305203E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
 
 <p align="Right">
   <a href="https://www.instagram.com/me_nyaongv._.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
